@@ -1,0 +1,14 @@
+:root {
+    text-align: center;
+    font-family: Verdana;
+    color: darkblue;
+}
+
+header, section {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    width: 80px;
+}
